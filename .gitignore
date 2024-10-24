@@ -6,6 +6,9 @@ detrex/version.py
 # experiment dirs
 outputs/
 
+# dataset dirs
+datasets/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
